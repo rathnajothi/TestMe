@@ -1,2 +1,2 @@
-Welcome to Git Foundation Course - 29th Jan 2018
+Welcome to Git Foundation Course - 29-01-2018
 Introduction to Git is covered
